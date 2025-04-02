@@ -26,6 +26,9 @@ blockquote {
 }
 
 a {
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
   color: inherit;
 }
 
@@ -34,5 +37,8 @@ img {
 }
 
 button {
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
   font: inherit;
 }
