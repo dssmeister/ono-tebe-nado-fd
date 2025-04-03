@@ -13,7 +13,7 @@ main {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 94px 50px;  
+  padding: 94px 50px;
 }
 
 .header__links-list {
@@ -221,7 +221,7 @@ main {
   background-repeat: no-repeat;
 }
 
-.card_type_film {  
+.card_type_film {
   background-image: url(../images/card-lot-01.jpg);
 }
 
